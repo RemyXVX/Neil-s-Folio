@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# <span style="color: Pink">Brainy Tutoring
 
-## Getting Started
+#### By **Roye Bustan, Nathan Hyatt, Remy Flores, Neil Reyes**
 
-First, run the development server:
+#### **Brainy Tutoring**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Index
+
+1. [Technologies Used](#1)
+2. [Description](#2)
+3. [Webpage](#3)
+4. [Setup/Installation Requirements](#4)
+5. [Step by Step Guide](#5)
+6. [Known Bugs](#6)
+7. [License](#7)
+
+## <a name="1" id="1"></a><span style="color: Pink">Technologies Used
+* Next
+* JavaScript
+* Tailwind
+* React
+* Babel
+* ESLint
+
+## <a name="2" id="2"></a><span style="color: Pink">Description
+_Here to spread the love for a fellow dev by helping this foo get himself out on the web._
+
+## <a name="3" id="3"></a><span style="color: Pink">Webpage
+* [coming soon]()
+
+## <a name="4" id="4"></a><span style="color: Pink">Setup/Installation Requirements
+* _Chrome web browser for best compatibility_
+* _Have a prompt and editor to apply changes, like VSCode and Gitbash_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Download here for VScode](https://code.visualstudio.com/download)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Download here for Gitbash](https://git-scm.com/downloads)
+
+* _Installation of Node.js and npm_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Download here](https://nodejs.org/en/download/)
+
+## <a name="5" id="5"></a><span style="color: Pink">Step by step breakdown on how to run application:
+
+<big>Copy by running:</big>
+
+```
+git clone "https://github.com/Rbustan0/BrainyTutoring"
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<big>I would recommend also setting up your work environment after cloning by:</big>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<big>Check if the application compiles without any bugs:</big>
 
-## Learn More
+```
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+<big>Once we have the program started, run:</big>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<big>Now you can access the application in your web browser at `http://localhost:3000`.</big>
 
-## Deploy on Vercel
+## <a name="6" id="6"></a> <span style="color: Pink">Known Bugs
+* _Just getting started, no known bugs at this time_
+* _If any issues or bugs are discovered, please feel free to reach out to me via email at remyfranciscoflores@gmail.com_
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## <a name="7" id="7"></a><span style="color: Pink">License
+* **SEE LICENSE [HERE](./LICENSE.md)**
