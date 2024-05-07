@@ -1,14 +1,15 @@
 import React from 'react';
 
 const Header = () => {
-  const abstart = '/assets/abstart.png'; 
+  const tba = '/assets/subrandom.jpeg'; 
+
   return (
     <header>
       <div className="flex justify-center items-center h-full">
         <img
-          src={abstart}
+          src={tba}
           alt="Header Image"
-          className="max-w-full h-auto"
+          className="object-cover lg:object-contain max-w-full h-auto lg:max-w-[50%] lg:max-h-fit" // Adjust width as needed
         />
       </div>
     </header>
