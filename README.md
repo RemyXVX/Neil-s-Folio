@@ -1,8 +1,8 @@
-# <span style="color: Pink">Brainy Tutoring
+# <span style="color: Pink">Neil's Portfolio
 
-#### By **Roye Bustan, Nathan Hyatt, Remy Flores, Neil Reyes**
+#### By **Remy Flores**
 
-#### **Brainy Tutoring**
+#### **Neil's Portfolio**
 
 ## Index
 
@@ -26,7 +26,7 @@
 _Here to spread the love for a fellow dev by helping this foo get himself out on the web._
 
 ## <a name="3" id="3"></a><span style="color: Pink">Webpage
-* [coming soon]()
+* [Website here](https://neil-s-folio.vercel.app/)
 
 ## <a name="4" id="4"></a><span style="color: Pink">Setup/Installation Requirements
 * _Chrome web browser for best compatibility_
@@ -44,7 +44,7 @@ _Here to spread the love for a fellow dev by helping this foo get himself out on
 <big>Copy by running:</big>
 
 ```
-git clone "https://github.com/Rbustan0/BrainyTutoring"
+git clone "https://github.com/RemyXVX/Neil-s-Folio.git"
 ```
 
 <big>I would recommend also setting up your work environment after cloning by:</big>
