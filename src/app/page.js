@@ -6,12 +6,21 @@ import ProjectCard from "./pages/projects/page";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Header />
-      <NavigationBar />
-      <About />
-      <ProjectCard />
-      <Footer />
+    <main 
+      className="px-4 md:px-8 lg:px-16 xl:px-72" 
+      style={{ backgroundImage: `url(/assets/abstart.png)` }}
+    >
+      <div className="bg-black bg-opacity-50 min-h-screen">
+        <div className="container mx-auto">
+          <Header />
+          <NavigationBar />
+          <div className="bg-white p-2 md:p-4 lg:p-8 xl:p-12 shadow-lg">
+            <About />
+            <ProjectCard />
+            <Footer />
+          </div>
+        </div>
+      </div>
     </main>
   );
 }
