@@ -1,4 +1,3 @@
-// eslint-disable-next-line react/no-unescaped-entities
 import Experience from "./experience";
 import TechStack from "./techStack";
 
