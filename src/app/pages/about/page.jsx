@@ -5,7 +5,7 @@ const About = () => {
   return (
     <>
       <div 
-        className="p-8 shadow-lg text-gray-800"
+        className="p-8 shadow-lg text-gray-800 rounded-lg"
         id="about"
       >
         <h1 className="text-4xl font-bold mb-4">Hey there, Data Dreamer!</h1>

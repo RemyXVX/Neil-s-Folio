@@ -3,6 +3,7 @@ import NavigationBar from "./components/navbar/page";
 import About from "./pages/about/page";
 import Footer from "./components/footer/page";
 import ProjectCard from "./pages/projects/page";
+import Contact from "./pages/contact/page";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
           <div className="bg-white p-2 md:p-4 lg:p-8 xl:p-12 shadow-lg">
             <About />
             <ProjectCard />
+            <Contact />
             <Footer />
           </div>
         </div>

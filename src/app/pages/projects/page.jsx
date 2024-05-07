@@ -1,7 +1,7 @@
 const ProjectCard = ({ title, description, link }) => {
   return (
     <div 
-      className="bg-white shadow-md rounded-lg p-4"
+      className="bg-white shadow-md p-4 rounded-lg py-6"
       id="projects"
       >
       <h3 className="text-lg font-semibold">{title}</h3>
